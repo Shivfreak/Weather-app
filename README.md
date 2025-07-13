@@ -45,7 +45,7 @@ The application is built around a single-page architecture using React. Here’s
 5.  **Data Display**: The fetched weather data is then displayed in a well-designed card, showing the following information:
     -   City and Country
     -   Weather Description (e.g., "Clear sky," "Partly cloudy")
-    -   Temperature (in Celsius)
+    -   Temperature
     -   Humidity (in percentage)
     -   Wind Speed (in m/s)
 
@@ -91,4 +91,4 @@ The application will be available at `http://localhost:5173`.
 This weather dashboard is a great example of how to build a functional and visually appealing application using modern front-end technologies. Its clean code and straightforward architecture make it an excellent project for learning and experimentation.
 
 #OUTPUT
-
+<img width="1790" height="780" alt="Image" src="https://github.com/user-attachments/assets/4e1aee45-e5d0-41c1-be3f-037ffd9435ad" />
